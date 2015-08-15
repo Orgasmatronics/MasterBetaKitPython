@@ -1,2 +1,2 @@
 # MasterBetaKitPython
-Same hardware, same outcome, different software. Load one program onto the Arduino UNO and master beta kit, then run various python scripts to make things happen instead of loading different programs through the ardunio IDE
+Same hardware, same outcome, different software. Load one program onto the Arduino UNO and master beta kit, then run various python scripts to make things happen instead of loading different programs through the ardunio IDE. Also note that while my examples will be python scripts, there is nothing special about using python.  You can use any language to send and recieve serial data to the arduino, as well as the serial monitor built into the Arduino IDE and various other similar serial software.
